@@ -1,7 +1,17 @@
 <h1>Desafio de projeto do Felipão: Mario Kart.JS</h1>
 
-Realizei varias modificações, caso queria consultar o projeto original, o link está a baixo:
 <h5><a href="https://github.com/digitalinnovationone/formacao-nodejs/tree/main/03-projeto-mario-kart">Projeto Original do Curso</a></h5>
+
+## Para rodar o projeto 🚘
+
+Neste projeto eu usei uma dependência `prompt-sync`, pois neste projeto eu fiz o usuário escolher o seu personagem via console, então rode os seguintes comandos: 
+
+```bash
+npm i
+npm start
+```
+
+---
 
   <table>
         <tr>
