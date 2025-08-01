@@ -1,0 +1,17 @@
+{
+  "name": "projeto-mario-kart",
+  "version": "1.0.0",
+  "description": "Projeto do Felipão da DIO com foco em mostrar o básico de Javascript e Node.js",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "Fabrício de Araújo Santana",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
