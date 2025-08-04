@@ -99,7 +99,7 @@ async function choosePlayer() {
  * Função para construir um jogador a partir do id do personagem escolhido.
  * 
  * @param {Object} player O personagem escolhido pelo usuário, seja ele o primeiro ou o segundo
- * @param {number} idPlayer O id do personagem escolhido pelo usuário, que será usado para buscar as informações do personagem no vetor de jogadores
+ * @param {number} idPlayer O 
  */
 async function playerBuild(player, idPlayer) {
     player.nome = players[idPlayer - 1].nome;
